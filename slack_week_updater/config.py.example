@@ -1,3 +1,6 @@
+import datetime
+
 slack_user_token =  "xbxb-asdad"
 slack_general_channel_id = "UXXXXX"
 slack_my_user_id = "UXXXX"
+start_date = datetime.date(2021, 4, 42)
